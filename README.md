@@ -25,3 +25,5 @@ Clone this repo, go to this [url][game media], and download zip file inside. Pla
 [gh enan]: https://github.com/enan789
 [gh ian]: https://github.com/ian-s-mcb
 [game media]:https://drive.google.com/open?id=0BwomLAlOEfXYfkhMb3FPa1VXZ3JValdPY0p0eUVuS3lPZDAtSWI3SXlVUnoyb20xaE15N0U&authuser=0
+
+This also includes a bot mode made by David Andrews.
